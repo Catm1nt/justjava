@@ -1,0 +1,32 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Just Java</string>
+
+    <string name="enter_name">Name</string>
+
+    <!-- Header text for the list of toppings char limit 20 -->
+    <string name="toppings">Toppings</string>
+
+    <!-- Asks user what toppings they want [CHAR LIMIT=NONE] -->
+    <string name="add_whipped_cream">Add whipped cream?</string>
+
+    <string name="add_chocolate">Add chocolate?</string>
+
+    <!-- Shows the quantity of ordered items-->
+
+    <string name="quantity_of_coffees">Quantity</string>
+    <!-- The total sum of the order-->
+
+    <string name="total_price">Total</string>
+
+    <!-- Thank you message for the order summary [CHAR LIMIT=NONE]-->
+
+    <string name="thank_you">Thank you!</string>
+
+    <!-- The order summary with the user's name. It will be shown in the format of "Name: Deka" where
+    Deka is the user's name. [CHAR LIMIT=NONE]-->
+    <string name="order_summary_name">Name: </string>
+
+    <!-- The text that shows on the Order button-->
+    <string name="order">Order</string>
+
+</resources>
